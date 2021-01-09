@@ -1,0 +1,141 @@
+/* CSS Document */
+
+/* asosiy xossalar */
+
+.body {
+background-image: url(../images/right_right.jpg);
+background-color:aquamarine;
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+font-size:14px;
+font-weight:normal;
+}
+
+h1 {
+text-align: center;
+color:blue;
+font-family: arizonia;
+}
+
+/* header styles */
+
+.header_bg {
+background-image:url(../images/header.jpg);
+}
+
+/* menu styles */
+.article_menu {
+background-image: url(../images/menu_bg.jpg);
+}
+.article_menu a {
+margin-left:3px;
+margin-right:3px;
+color:#32FF00;
+}
+.article_menu a:hover {
+color:#ffffff;
+}
+
+.separator {
+background-image: url(../images/menu_seperator.jpg);
+background-repeat: no-repeat;
+}
+
+.article_menu {
+background-image: url(../images/menu_bg.jpg);
+}
+.article_menu a {
+text-decoration: none;
+margin-left:3px;
+margin-right:3px;
+color:#32FF00;
+}
+.article_menu a:hover {
+color:#ffffff;
+}
+
+/* content styles */
+.new_dec {
+padding:10px;
+color:yellow;
+font-size:20px;
+font-weight: bold;
+}
+.new_dec a {
+text-decoration:none;
+}
+.new_dec a:hover {
+color:#00FF2C;
+
+}
+.vide_flash {
+align-content: left;
+padding: 10px;
+}
+.article_im {
+border-color:black;
+border-width:1px;
+border-style:solid;
+margin:5px;
+}
+
+.article_title {
+padding: 5px;
+color:darkblue;
+font-size:15px;
+font-weight:bold;
+}
+.article_title a {
+color:green;
+text-decoration: none;
+}
+.article_title a:hover {
+color:#00FF15;
+}
+
+#article_block {
+margin:0px;
+padding:10px;
+border-color:blue;
+border-width:1px;
+background-color:azure;
+border-style:solid;
+}
+/* right styles */
+
+.right {
+border-left:black;
+border-style:solid;
+border-left-width:1px;
+border-right-width:0px;
+border-top-width:0px;
+border-bottom-width:0px;
+}
+.right_bg {
+color:#00FF05;
+text-align:center;
+background-image:url(../images/right_mod_title.jpg);
+background-repeat:repeat-x;
+}
+.News_article {
+background-repeat:repeat-x;
+font-size:18px;
+color:navy;
+font-style: italic;
+}
+.News_article a:hover {
+color:#FFFFFF;
+}
+/* footer styles */
+
+.footer_bg {
+border-left:black;
+border-style:solid;
+border-left-width:0px;
+border-right-width:0px;
+border-top-width:1px;
+border-bottom-width:0px;
+text-align:center;
+font-size:14px;
+font:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+background-image:url(../images/header.jpg);
+}
